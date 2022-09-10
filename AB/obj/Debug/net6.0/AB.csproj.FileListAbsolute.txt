@@ -1,0 +1,15 @@
+D:\HW4\AB\bin\Debug\net6.0\AB.exe
+D:\HW4\AB\bin\Debug\net6.0\AB.deps.json
+D:\HW4\AB\bin\Debug\net6.0\AB.runtimeconfig.json
+D:\HW4\AB\bin\Debug\net6.0\AB.dll
+D:\HW4\AB\bin\Debug\net6.0\AB.pdb
+D:\HW4\AB\obj\Debug\net6.0\AB.csproj.AssemblyReference.cache
+D:\HW4\AB\obj\Debug\net6.0\AB.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW4\AB\obj\Debug\net6.0\AB.AssemblyInfoInputs.cache
+D:\HW4\AB\obj\Debug\net6.0\AB.AssemblyInfo.cs
+D:\HW4\AB\obj\Debug\net6.0\AB.csproj.CoreCompileInputs.cache
+D:\HW4\AB\obj\Debug\net6.0\AB.dll
+D:\HW4\AB\obj\Debug\net6.0\refint\AB.dll
+D:\HW4\AB\obj\Debug\net6.0\AB.pdb
+D:\HW4\AB\obj\Debug\net6.0\AB.genruntimeconfig.cache
+D:\HW4\AB\obj\Debug\net6.0\ref\AB.dll
